@@ -1,0 +1,66 @@
+{
+"companyName":"Train Central",
+"ownerName": "Greeshma Sree",
+"rollNo": "322010303010",
+"ownerEmail": "gundagreeshma7@gmail.com",
+"accessCode": "oJnNPG"
+}
+
+{
+
+    "companyName": "Train Central",
+    "clientID": "b46118f0-fbde-4b16-a4b1-6ae6ad718b27",
+    "clientSecret": "XOyolORPasKWODAN"
+ }
+ {
+    "companyName": "Train Central",
+    "clientID": "b46118f0-fbde-4b16-a4b1-6ae6ad718b27",
+    "ownerName": "Rahul",
+    "ownerEmail": "rahul@abc.edu",
+    "rollNo": "1",
+    "clientSecret": "XOyol0RPasKWODAN"
+}
+
+{
+
+"token_type": "Bearer",
+"access_token":"eyJhbGci0iJIUZI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE20DI2MjkyNjQs ImNvbXBhbn10YW1lIjoiVHJhaW4gQ2Vud HJhbCIsImNsaWVudE1EIjoiYjQ2MTE4ZjAtZmJkZSO0YjE2LWEOYjEtNmF1NmFkNzE4YjI3Ino.v93QcxrZHWDTnTwm0-6t toTGI4C64Grhn7rIJDC8fy8",
+"expires_in": 1682629264
+}
+"trainName": "Chennai Exp",
+"trainNumber": "2344", "departureTime": {
+    "Hours": 21,
+    "Minutes":35,
+    "Seconds": 0
+    },
+    "seatsAvailable": {
+    "sleeper": 3,
+    "AC": 1
+    },
+    "price": {
+    "sleeper": 2,
+    "AC": 5
+     },
+     "delayedBy": 15
+
+},
+{
+    "trainName": "Hyderabad Exp",
+    "trainNumber": "2341",
+    "departureTime": {
+        "Hours": 23,
+        "Minutes": 55,
+        "Seconds": 0
+},
+"seatsAvailable": {    
+    "sleeper": 6,
+    "AC": 7
+},
+"price": {
+    "sleeper": 554,    
+    "AC": 1854
+},
+"delayedBy": 5
+}
+}SS
+
