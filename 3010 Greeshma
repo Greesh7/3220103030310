@@ -57,10 +57,24 @@
     "AC": 7
 },
 "price": {
-    "sleeper": 554,    
-    "AC": 1854
-},
+"sleeper": 554,    
+"AC": 1854},
 "delayedBy": 5
-}
-}SS
+
+}"trainName": "Delhi Door Hai Exp",
+"trainNumber": "2343",
+"departureTime": {
+"Hours": 9,
+"Minutes" : 45,
+"Seconds": 0
+},
+"seatsAvailable": {
+"sleeper": 32,
+"AC": 1
+},
+"price": {
+"sleeper": 1,
+"AC": 723
+},
+"delayedBy": 3
 
